@@ -1,0 +1,32 @@
+{
+  "name": "graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "apollo-server-express": "^1.4.0",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "graphql": "^0.13.2",
+    "graphql-tools": "^3.1.1",
+    "notarealdb": "^0.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awais1995-star/GraphQL.git"
+  },
+  "keywords": [
+    "graphql",
+    "Api"
+  ],
+  "author": "Muhammad Awais Niaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awais1995-star/GraphQL/issues"
+  },
+  "homepage": "https://github.com/awais1995-star/GraphQL#readme"
+}
